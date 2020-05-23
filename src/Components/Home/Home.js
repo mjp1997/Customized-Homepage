@@ -9,11 +9,14 @@ class Home extends Component {
 	render() {
 	  return (
 		<div>
-			<Reddit></Reddit>
-			<Stocks></Stocks>
-			<Youtube></Youtube>
-			<Fitness></Fitness>
-
+			<div className = "row">
+				<div className = "col s6"><Reddit></Reddit></div>
+				<div className = "col s6"><Stocks></Stocks></div>
+			</div>
+			<div className = "row">
+				<div className = "col s6"><Youtube></Youtube></div>
+				<div className = "col s6"><Fitness></Fitness></div>
+			</div>
 		</div>
 	  );
 	}

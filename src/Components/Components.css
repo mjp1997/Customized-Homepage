@@ -3,7 +3,45 @@
 	background-color: white;
 	/* background-color: #FFFFFF !important; */
 	box-shadow: 0 !important;
-} 
+}
+body{
+	color: #00458B !important;
+}
 .linkStyle{
 	color: #00458B !important;
 }
+.right{
+	/* top: 10px; */
+	right: 20px;
+}
+.navBarName{
+	font-family: 'Shadows Into Light', cursive;
+	color:#00458B !important;
+	font-size: 30px;
+	text-align: center;
+	top: 10px;
+}
+.iconStyleFb{
+	color:#00458B !important;
+	font-size: 60px;
+	padding-left: 20px !important;
+}
+
+.iconStyleGithub{
+	color:black !important;
+	font-size: 60px;
+	padding-left: 20px !important;
+}
+nav{
+	background-color: #FFFFFF;
+}
+/* nav.nav-right ul {
+    text-align: center;
+}
+nav.nav-right ul li {
+    display: inline;
+    float: none;
+}
+nav.nav-right ul li a {
+    display: inline-block;
+} */
