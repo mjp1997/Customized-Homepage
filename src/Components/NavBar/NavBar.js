@@ -6,8 +6,8 @@ import {FaLinkedinIn} from "react-icons/fa";
 import {FaGithub} from "react-icons/fa";
 const NavBar = () =>{
 	return(
-	<div class = "row">
-		<div class = "col s12 m12 l12">	 
+	<div className = "row">
+		<div className = "col s12 m12 l12">	 
 		<nav className = 'z-depth-0'>
 		<a href ="https://www.facebook.com/mitchell.perez.1/"><FaFacebook className = "iconStyleFb"></FaFacebook></a>
 		<a href ="https://www.facebook.com/mitchell.perez.1/"><FaLinkedinIn className = "iconStyleFb"></FaLinkedinIn></a>

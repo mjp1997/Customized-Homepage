@@ -4,9 +4,7 @@ import '../Components.css';
 class Fitness extends Component {
 	render() {
 	  return (
-		<div>
-			Fitness
-		</div>
+		<div><h3 className = "headerCaption">Fitness</h3></div>
 	  );
 	}
   }

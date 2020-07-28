@@ -5,7 +5,7 @@ class Stocks extends Component {
 	render() {
 	  return (
 		<div>
-			Stocks
+			<h3 className = "headerCaption"> Stocks </h3>
 		</div>
 	  );
 	}

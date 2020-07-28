@@ -4,9 +4,8 @@ import '../Components.css';
 class Reddit extends Component {
 	render() {
 	  return (
-		<div>
-			Reddit
-		</div>
+		<div><h3 className = "headerCaption">Reddit</h3></div>
+
 	  );
 	}
   }

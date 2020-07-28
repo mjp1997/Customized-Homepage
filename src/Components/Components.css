@@ -26,6 +26,9 @@ body{
 	font-size: 60px;
 	padding-left: 20px !important;
 }
+.headerCaption{
+	padding-left: 20px;
+}
 
 .iconStyleGithub{
 	color:black !important;
